@@ -2,6 +2,6 @@
 
 **Nome Completo:** Jerson Luiz Silva de Brito
 
-**Cidade Natal?** Recife
+**Cidade Natal:** Recife
 
 **Cidade Atual:** João Pessoa
