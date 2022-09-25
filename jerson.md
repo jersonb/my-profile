@@ -5,3 +5,5 @@
 **Cidade Natal:** Recife
 
 > esta linha é um erro não deveria estar aqui, estou inserindo um bug
+
+**Cidade Atual:** João Pessoa
