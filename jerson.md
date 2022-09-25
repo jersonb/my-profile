@@ -4,5 +4,4 @@
 
 **Cidade Natal:** Recife
 
-
 **Cidade Atual:** João Pessoa
