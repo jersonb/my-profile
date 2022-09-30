@@ -5,3 +5,5 @@
 **Cidade Natal:** Recife
 
 **Cidade Atual:** João Pessoa
+
+**Email:** jersonlbrito@hotmail.com
