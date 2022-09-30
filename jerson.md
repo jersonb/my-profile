@@ -7,3 +7,5 @@
 **Cidade Atual:** João Pessoa
 
 **Email:** jersonlbrito@hotmail.com
+
+**Cel:** (81) 981900785
